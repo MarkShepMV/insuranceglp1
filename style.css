@@ -187,11 +187,16 @@
 .logo-link {
   display: flex;
   text-decoration: none;
+  transition: opacity 0.2s;
+}
+
+.logo-link:hover {
+  opacity: 0.75;
 }
 
 .logo-svg {
-  width: 200px;
-  height: 42px;
+  width: 290px;
+  height: 56px;
 }
 
 .header-actions {
