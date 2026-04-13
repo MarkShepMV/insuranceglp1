@@ -546,8 +546,11 @@ function showResults() {
 
   document.getElementById('resultsContainer').innerHTML = html;
 
-  // Show email section
+  // Show email section and monetization sections
   document.getElementById('emailSection').style.display = 'block';
+  document.getElementById('telehealth-section').style.display = 'block';
+  document.getElementById('savings-section').style.display = 'block';
+  document.getElementById('rx-card-section').style.display = 'block';
 }
 
 // ============================================
@@ -557,6 +560,9 @@ function startOver() {
   selections = { insuranceType: null, provider: null, medication: null, reason: null };
   document.querySelectorAll('.option-card, .state-btn').forEach(c => c.classList.remove('selected'));
   document.getElementById('emailSection').style.display = 'none';
+  document.getElementById('telehealth-section').style.display = 'none';
+  document.getElementById('savings-section').style.display = 'none';
+  document.getElementById('rx-card-section').style.display = 'none';
   document.getElementById('progressFill').style.width = '0%';
   document.querySelectorAll('.progress-step').forEach(ps => {
     ps.classList.remove('active', 'completed');
