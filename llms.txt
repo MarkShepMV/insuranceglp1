@@ -1,0 +1,31 @@
+# Insurance GLP-1
+
+> Insurance coverage guide for GLP-1 medications. Find out whether your plan covers Ozempic, Wegovy, Mounjaro, or Zepbound, plus prior-authorization requirements, costs, and savings programs.
+
+Insurance GLP-1 is a free reference site that tracks GLP-1 medication coverage across the major U.S. commercial carriers (Aetna, BlueCross BlueShield, UnitedHealthcare) and produces medication-specific coverage breakdowns for Ozempic, Wegovy, Mounjaro, and Zepbound. Created by Mark "Shep" Shepherd as a service of Maps Health Network, LLC. Updated regularly as carrier formularies change.
+
+## Core pages
+
+- [Home — GLP-1 Insurance Coverage Guide](https://www.insuranceglp1.com/): Overview, coverage checker, and 2026 GLP-1 insurance landscape
+- [Ozempic Coverage](https://www.insuranceglp1.com/ozempic-coverage.html): Plan-by-plan coverage for Ozempic (semaglutide), prior auth, costs, and savings programs
+- [Wegovy Coverage](https://www.insuranceglp1.com/wegovy-coverage.html): Plan-by-plan coverage for Wegovy, the obesity-indicated semaglutide
+- [Mounjaro Coverage](https://www.insuranceglp1.com/mounjaro-coverage.html): Plan-by-plan coverage for Mounjaro (tirzepatide) for type 2 diabetes
+- [Zepbound Coverage](https://www.insuranceglp1.com/zepbound-coverage.html): Plan-by-plan coverage for Zepbound, the weight-management tirzepatide
+- [Aetna GLP-1 Coverage](https://www.insuranceglp1.com/aetna.html): Aetna formulary placement, prior-auth criteria, and step-therapy rules for GLP-1 medications
+- [BlueCross BlueShield GLP-1 Coverage](https://www.insuranceglp1.com/bcbs.html): BCBS state-by-state GLP-1 coverage variations
+- [UnitedHealthcare GLP-1 Coverage](https://www.insuranceglp1.com/unitedhealthcare.html): UnitedHealthcare commercial and Medicare Advantage GLP-1 coverage rules
+
+## Founder
+
+Mark "Shep" Shepherd, 35 years in U.S. medical device sales (26 at Medtronic, two-time U.S. Representative of the Year). GLP-1 patient who lost 50 pounds in 9 months on Mounjaro. Creator of The S.H.E.P.S. Method. Full bio at https://shepsmethod.com/about.html.
+
+## Other properties
+
+- [GLP-1 Maps](https://www.glp1maps.com/): Directory of GLP-1 providers in the U.S.
+- [GLP-1 Receptionist](https://glp1receptionist.com/): AI voice receptionist for GLP-1 clinics.
+- [The S.H.E.P.S. Method](https://shepsmethod.com/): The book and community for patients on GLP-1.
+- [BMI for GLP-1](https://www.bmiforglp1.com/): BMI calculator and eligibility guide for GLP-1 medications.
+
+## Disclaimer
+
+Insurance GLP-1 provides general coverage information for educational reference. Coverage details vary by employer, plan year, state, and individual circumstances. Always verify benefits directly with your insurance carrier before making healthcare decisions. Brand marks (Insurance GLP-1, GLP-1 Maps, The S.H.E.P.S. Method) are service marks pending USPTO registration.
