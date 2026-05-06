@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /google0d9206b53bb5d1e2.html
 
 Sitemap: https://www.insuranceglp1.com/sitemap.xml
